@@ -1,110 +1,138 @@
-# Clizan Willian
+# Hi there 👋 I'm Clizan Willian
 
-## Senior Backend Engineer | Software Architect | AI Integration Engineer
+### Backend Software Engineer Specialist
 
-Especialista em desenvolvimento backend com foco em Java Enterprise, arquitetura de software, microsserviços, APIs REST, bancos de dados e integração de sistemas corporativos.
-
-Atualmente expandindo atuação para Inteligência Artificial aplicada a sistemas enterprise utilizando Java + AI.
+Building enterprise-grade backend solutions with Java, Software Architecture and Artificial Intelligence.
 
 ---
 
-## Sobre mim
+## 🚀 About Me
 
-- 10+ anos em tecnologia
-- Especialista em Backend Java
-- Especialista em PHP
-- Experiência com arquitetura de software
-- Microsserviços e sistemas distribuídos
-- APIs REST e integrações corporativas
-- SQL e modelagem de dados
-- Observabilidade e monitoramento
-- DevOps e containers
-- IA aplicada ao backend corporativo
+I'm a Backend Software Engineer Specialist passionate about designing scalable, reliable and high-performance enterprise applications.
+
+With solid experience in Java, PHP and Software Architecture, I enjoy solving complex business problems through clean architecture, distributed systems and modern backend technologies.
+
+I'm currently expanding my expertise in Artificial Intelligence, integrating LLMs and AI-powered solutions into enterprise software.
 
 ---
 
-## Stack Principal
+## 💼 Core Expertise
+
+- Enterprise Backend Development
+- Java & Spring Boot
+- Software Architecture
+- REST APIs
+- Distributed Systems
+- Microservices
+- Database Design
+- Performance Optimization
+- System Integration
+- Cloud Native Applications
+
+---
+
+## 🤖 Current Focus
+
+I'm currently focused on building enterprise applications powered by Artificial Intelligence.
+
+Main topics:
+
+- Spring AI
+- LangChain4j
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- MCP (Model Context Protocol)
+- AI Observability
+- Enterprise AI Architecture
+
+---
+
+## 🛠 Tech Stack
 
 ### Backend
-- Java
-- Spring Boot
-- PHP
-- JSP
-- REST APIs
-- Microsserviços
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
-- SQL Server
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### DevOps & Infra
-- Docker
-- Kubernetes
-- Grafana
-- Prometheus
-- Linux
+---
 
-### Arquitetura
-- Software Architecture
+### Architecture
+
 - Clean Architecture
-- DDD
-- Event Driven Architecture
+- Domain-Driven Design (DDD)
+- SOLID Principles
+- Event-Driven Architecture
+- Microservices
 
-### Inteligência Artificial
+---
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+---
+
+### AI Engineering
+
 - Spring AI
 - LangChain4j
 - OpenAI API
 - Ollama
 - RAG
-- Vector Databases
-
----
-
-## Atualmente Estudando
-
-- AI Engineering
 - AI Agents
-- MCP
-- LLM Integration
-- AI Observability
-- AI Enterprise Architecture
 
 ---
 
-## Projetos em Destaque
+## 🚧 Featured Projects
 
-### AI Enterprise Platform
-Plataforma corporativa utilizando Java + IA para automação, análise inteligente e integração de LLMs.
+Coming soon...
 
-### Intelligent Observability
-Monitoramento inteligente utilizando Grafana, Prometheus e IA para análise automática de logs e métricas.
-
-### Enterprise RAG System
-Sistema RAG corporativo para consulta inteligente de documentos e bases internas.
-
----
-
-## Objetivos
-
-Construir soluções enterprise modernas unindo:
-
-- Arquitetura de Software
-- Backend de Alta Performance
-- Cloud & DevOps
-- Inteligência Artificial
-- Observabilidade
-- Sistemas Escaláveis
+- 🚀 Enterprise AI Platform
+- 🤖 AI Log Analyzer
+- 🏦 AI Credit Decision
+- 📚 Spring AI Playground
+- ☁ Distributed Systems Lab
 
 ---
 
-## Contato
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clizan&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clizan&layout=compact&theme=github_dark)
+
+---
+
+## 🎯 2026 Goals
+
+- Build enterprise-grade AI applications
+- Become an AI Engineering specialist
+- Contribute to open-source projects
+- Publish high-quality backend architecture projects
+- Share knowledge with the developer community
+
+---
+
+## 📫 Connect with Me
 
 - GitHub: https://github.com/Clizan
-- LinkedIn: Adicione aqui seu LinkedIn
+- LinkedIn: *(coming soon)*
 
 ---
 
-## Motto
-
-> "Building scalable enterprise systems powered by AI."
+> **"Great software is built through clean architecture, continuous learning and solving real business problems."**
