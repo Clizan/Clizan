@@ -2,17 +2,14 @@
 
 ### Backend Software Engineer Specialist
 
-Building enterprise-grade backend solutions with Java, Software Architecture and Artificial Intelligence.
-
+Engineering enterprise-grade backend systems powered by Artificial Intelligence.
 ---
 
 ## 🚀 About Me
 
-I'm a Backend Software Engineer Specialist passionate about designing scalable, reliable and high-performance enterprise applications.
+Backend Software Engineer Specialist with strong experience in designing scalable enterprise applications using Java, Software Architecture and Distributed Systems.
 
-With solid experience in Java, PHP and Software Architecture, I enjoy solving complex business problems through clean architecture, distributed systems and modern backend technologies.
-
-I'm currently expanding my expertise in Artificial Intelligence, integrating LLMs and AI-powered solutions into enterprise software.
+Currently focused on integrating Artificial Intelligence into enterprise software through modern AI frameworks and LLM technologies.
 
 ---
 
@@ -124,11 +121,15 @@ Coming soon...
 
 ## 🎯 2026 Goals
 
-- Build enterprise-grade AI applications
-- Become an AI Engineering specialist
-- Contribute to open-source projects
-- Publish high-quality backend architecture projects
-- Share knowledge with the developer community
+✅ Build enterprise AI applications
+
+✅ Publish high-quality open source projects
+
+✅ Become a reference in Java + AI Engineering
+
+✅ Contribute to the developer community
+
+✅ Share practical AI architecture examples
 
 ---
 
