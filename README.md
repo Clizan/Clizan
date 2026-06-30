@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="C:\Users\Clizan Willian\Pictures\Screenshots" alt="Clizan Willian - Backend Software Engineer Speacialist" width="100%">
+</p>
+
 # Hi there 👋 I'm Clizan Willian
 
 ### Backend Software Engineer Specialist
