@@ -1,6 +1,6 @@
 <p align="center">
   <img width="899" height="290" alt="Captura de tela 2026-06-30 104832" src="https://github.com/user-attachments/assets/6adaa11e-7928-4bdc-98cd-0fbe0d433ab1" />
-" alt="Clizan Willian - Backend Software Engineer Speacialist" width="100%">
+alt="Clizan Willian - Backend Software Engineer Speacialist" width="100%">
 </p>
 
 # Hi there 👋 I'm Clizan Willian
